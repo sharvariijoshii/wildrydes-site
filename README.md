@@ -1,4 +1,4 @@
-# AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial
+# AWS Project - Build a Full End-to-End Web Application with 7 Services 
 
 
 ## TL;DR
